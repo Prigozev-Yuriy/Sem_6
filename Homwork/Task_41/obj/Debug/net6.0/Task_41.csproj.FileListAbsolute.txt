@@ -1,0 +1,15 @@
+E:\GeekBrains\C#\Examples\Sem_6\Homwork\Task_41\bin\Debug\net6.0\Task_41.exe
+E:\GeekBrains\C#\Examples\Sem_6\Homwork\Task_41\bin\Debug\net6.0\Task_41.deps.json
+E:\GeekBrains\C#\Examples\Sem_6\Homwork\Task_41\bin\Debug\net6.0\Task_41.runtimeconfig.json
+E:\GeekBrains\C#\Examples\Sem_6\Homwork\Task_41\bin\Debug\net6.0\Task_41.dll
+E:\GeekBrains\C#\Examples\Sem_6\Homwork\Task_41\bin\Debug\net6.0\Task_41.pdb
+E:\GeekBrains\C#\Examples\Sem_6\Homwork\Task_41\obj\Debug\net6.0\Task_41.csproj.AssemblyReference.cache
+E:\GeekBrains\C#\Examples\Sem_6\Homwork\Task_41\obj\Debug\net6.0\Task_41.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\C#\Examples\Sem_6\Homwork\Task_41\obj\Debug\net6.0\Task_41.AssemblyInfoInputs.cache
+E:\GeekBrains\C#\Examples\Sem_6\Homwork\Task_41\obj\Debug\net6.0\Task_41.AssemblyInfo.cs
+E:\GeekBrains\C#\Examples\Sem_6\Homwork\Task_41\obj\Debug\net6.0\Task_41.csproj.CoreCompileInputs.cache
+E:\GeekBrains\C#\Examples\Sem_6\Homwork\Task_41\obj\Debug\net6.0\Task_41.dll
+E:\GeekBrains\C#\Examples\Sem_6\Homwork\Task_41\obj\Debug\net6.0\refint\Task_41.dll
+E:\GeekBrains\C#\Examples\Sem_6\Homwork\Task_41\obj\Debug\net6.0\Task_41.pdb
+E:\GeekBrains\C#\Examples\Sem_6\Homwork\Task_41\obj\Debug\net6.0\Task_41.genruntimeconfig.cache
+E:\GeekBrains\C#\Examples\Sem_6\Homwork\Task_41\obj\Debug\net6.0\ref\Task_41.dll
